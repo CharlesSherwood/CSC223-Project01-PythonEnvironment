@@ -1,0 +1,1 @@
+This program creates a rectangle class that is used accross the program to test different things for pythong includign the debugging system and ways you can use it 

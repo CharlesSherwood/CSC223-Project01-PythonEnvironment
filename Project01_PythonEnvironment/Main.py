@@ -9,7 +9,7 @@ def main():
     print(f"area:{box.get_area()}")
 
     invalid_box = Rectangle(-4.0, 6.0)
-
+   
     print()
     print("Invalid Rectangle")
     print(f"Length: {invalid_box.get_length()}")
